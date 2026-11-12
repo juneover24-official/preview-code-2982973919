@@ -1,7 +1,7 @@
 {
   "qq_number": "2982973919",
   "group_number": "1094079599",
-  "updated_at": "2026-11-12T11:43:35+00:00",
+  "updated_at": "2026-11-12T12:05:09+00:00",
   "skins": [
     {
       "name": "积雨云 写苔",
@@ -16,6 +16,13 @@
       "thumb": "积雨云写苔_融合.bdi_py_26_light_thumb.png",
       "full": "积雨云写苔_融合.bdi_py_26_light_thumb.png",
       "file_id": "c6395446ca384579b36ea13cfb943e81"
+    },
+    {
+      "name": "积雨云 写苔",
+      "file": "积雨云写苔.bdi",
+      "thumb": "积雨云写苔.bdi_py_26_light_thumb.png",
+      "full": "积雨云写苔.bdi_py_26_light_thumb.png",
+      "file_id": "29a761e5abe2fd36123dda090b918bc5"
     }
   ]
 }
