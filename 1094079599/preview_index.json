@@ -1,7 +1,7 @@
 {
   "qq_number": "2982973919",
   "group_number": "1094079599",
-  "updated_at": "2026-11-13T08:55:09+00:00",
+  "updated_at": "2026-11-13T08:55:39+00:00",
   "skins": [
     {
       "name": "积雨云 写苔",
@@ -26,13 +26,6 @@
     },
     {
       "name": "黑生ˇCunmulonimbus",
-      "file": "黑生ˇCb.bds",
-      "thumb": "黑生ˇCb.bds_py_26_light_thumb.png",
-      "full": "黑生ˇCb.bds_py_26_light_thumb.png",
-      "file_id": "87efb3a4b1a822ace2b3a41287e44458"
-    },
-    {
-      "name": "黑生ˇCunmulonimbus",
       "file": "黑生ˇCb.bdi",
       "thumb": "黑生ˇCb.bdi_py_26_light_thumb.png",
       "full": "黑生ˇCb.bdi_py_26_light_thumb.png",
@@ -44,6 +37,13 @@
       "thumb": "黑生ˇCb_融合.bdi_py_26_light_thumb.png",
       "full": "黑生ˇCb_融合.bdi_py_26_light_thumb.png",
       "file_id": "399879e014f4ee2ecda6d0d4ca48f911"
+    },
+    {
+      "name": "黑生ˇCunmulonimbus",
+      "file": "黑生ˇCb.bds",
+      "thumb": "黑生ˇCb.bds_py_26_light_thumb.png",
+      "full": "黑生ˇCb.bds_py_26_light_thumb.png",
+      "file_id": "87efb3a4b1a822ace2b3a41287e44458"
     }
   ]
 }
