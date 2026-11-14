@@ -1,7 +1,7 @@
 {
   "qq_number": "2982973919",
   "group_number": "1094079599",
-  "updated_at": "2026-11-14T15:13:00+00:00",
+  "updated_at": "2026-11-14T15:20:32+00:00",
   "skins": [
     {
       "name": "积雨云 写苔",
@@ -58,6 +58,13 @@
       "thumb": "呼吸ˇCb.bds_py_26_light_thumb.png",
       "full": "呼吸ˇCb.bds_py_26_light_thumb.png",
       "file_id": "0d38b3341bde0e8d8a251d4afaa33401"
+    },
+    {
+      "name": "Cunmulonimbusˇ呼吸",
+      "file": "呼吸ˇCb.bdi",
+      "thumb": "呼吸ˇCb.bdi_py_26_light_thumb.png",
+      "full": "呼吸ˇCb.bdi_py_26_light_thumb.png",
+      "file_id": "4f7b349edcc7097388a3b02ad22f6fa2"
     }
   ]
 }
