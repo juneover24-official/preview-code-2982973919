@@ -1,7 +1,7 @@
 {
   "qq_number": "2982973919",
   "group_number": "1094079599",
-  "updated_at": "2026-11-16T08:12:10+00:00",
+  "updated_at": "2026-11-16T08:12:53+00:00",
   "skins": [
     {
       "name": "积雨云 写苔",
@@ -68,13 +68,6 @@
     },
     {
       "name": "Cunmulonimbusˇ梦境",
-      "file": "梦境ˇCb.bds",
-      "thumb": "梦境ˇCb.bds_py_26_light_thumb.png",
-      "full": "梦境ˇCb.bds_py_26_light_thumb.png",
-      "file_id": "97e3546d71d722a4186ff7e8e58b99a7"
-    },
-    {
-      "name": "Cunmulonimbusˇ梦境",
       "file": "梦境ˇCb.bdi",
       "thumb": "梦境ˇCb.bdi_py_26_light_thumb.png",
       "full": "梦境ˇCb.bdi_py_26_light_thumb.png",
@@ -86,6 +79,13 @@
       "thumb": "梦境ˇCb_融.bdi_py_26_light_thumb.png",
       "full": "梦境ˇCb_融.bdi_py_26_light_thumb.png",
       "file_id": "439994856b54a97d31161e9277818134"
+    },
+    {
+      "name": "Cunmulonimbusˇ梦境",
+      "file": "梦境ˇCb.bds",
+      "thumb": "梦境ˇCb.bds_py_26_light_thumb.png",
+      "full": "梦境ˇCb.bds_py_26_light_thumb.png",
+      "file_id": "97e3546d71d722a4186ff7e8e58b99a7"
     }
   ]
 }
