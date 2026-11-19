@@ -1,7 +1,7 @@
 {
   "qq_number": "2982973919",
   "group_number": "1094079599",
-  "updated_at": "2026-11-16T08:12:53+00:00",
+  "updated_at": "2026-11-19T22:42:34+00:00",
   "skins": [
     {
       "name": "积雨云 写苔",
@@ -86,6 +86,13 @@
       "thumb": "梦境ˇCb.bds_py_26_light_thumb.png",
       "full": "梦境ˇCb.bds_py_26_light_thumb.png",
       "file_id": "97e3546d71d722a4186ff7e8e58b99a7"
+    },
+    {
+      "name": "Cunmulonimbusˇ椅子",
+      "file": "椅子ˇCb闷.bdi",
+      "thumb": "椅子ˇCb闷.bdi_py_26_light_thumb.png",
+      "full": "椅子ˇCb闷.bdi_py_26_light_thumb.png",
+      "file_id": "00fc6dad62c068a17727b8876bc7741a"
     }
   ]
 }
