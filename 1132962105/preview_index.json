@@ -1,7 +1,7 @@
 {
   "qq_number": "2982973919",
   "group_number": "1132962105",
-  "updated_at": "2026-11-22T15:32:36+00:00",
+  "updated_at": "2026-11-22T15:32:41+00:00",
   "skins": [
     {
       "name": "Cunmulonimbusˇ萌系",
@@ -9,6 +9,13 @@
       "thumb": "萌系ˇCb.bds_py_26_light_thumb.png",
       "full": "萌系ˇCb.bds_py_26_light_thumb.png",
       "file_id": "747f23a32a8268d8ef92301319732d67"
+    },
+    {
+      "name": "Cunmulonimbusˇ我不是在做梦吧",
+      "file": "我不是在做梦吧ˇCb1.bds",
+      "thumb": "我不是在做梦吧ˇCb1.bds_py_26_light_thumb.png",
+      "full": "我不是在做梦吧ˇCb1.bds_py_26_light_thumb.png",
+      "file_id": "eeea4fc21839d9624e9c3fb9d1fbe70b"
     }
   ]
 }
