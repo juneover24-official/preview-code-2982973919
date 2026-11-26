@@ -1,7 +1,7 @@
 {
   "qq_number": "2982973919",
   "group_number": "1132962105",
-  "updated_at": "2026-11-24T16:10:07+00:00",
+  "updated_at": "2026-11-26T06:07:24+00:00",
   "skins": [
     {
       "name": "Cunmulonimbusˇ萌系",
@@ -51,6 +51,13 @@
       "thumb": "zh_Cb稻草.bds_py_26_light_thumb.png",
       "full": "zh_Cb稻草.bds_py_26_light_thumb.png",
       "file_id": "3bb2aee346886699cd5fe3043bfb6d0a"
+    },
+    {
+      "name": "Cb稻草",
+      "file": "Cb稻草.bdi",
+      "thumb": "Cb稻草.bdi_py_26_light_thumb.png",
+      "full": "Cb稻草.bdi_py_26_light_thumb.png",
+      "file_id": "50cf63191f237f2345a16ca5000e7844"
     }
   ]
 }
